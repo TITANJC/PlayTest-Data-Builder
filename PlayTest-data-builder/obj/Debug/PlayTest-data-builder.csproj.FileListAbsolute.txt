@@ -1,1 +1,8 @@
-D:\WORK\Portfolio\CS_Projects\PlayTest-data-builder\PlayTest-data-builder\bin\Debug\PlayTest-data-builder.exe.config
+D:/WORK/Portfolio/CS_Projects/PlayTest-data-builder/PlayTest-data-builder/bin/Debug/PlayTest-data-builder.exe.config
+/home/titanjc/Projects/CS_Projects/PlayTest-Data-Builder/PlayTest-data-builder/bin/Debug/PlayTest-data-builder.exe.config
+/home/titanjc/Projects/CS_Projects/PlayTest-Data-Builder/PlayTest-data-builder/bin/Debug/PlayTest-data-builder.exe
+/home/titanjc/Projects/CS_Projects/PlayTest-Data-Builder/PlayTest-data-builder/bin/Debug/PlayTest-data-builder.pdb
+/home/titanjc/Projects/CS_Projects/PlayTest-Data-Builder/PlayTest-data-builder/obj/Debug/PlayTest-data-builder.csprojAssemblyReference.cache
+/home/titanjc/Projects/CS_Projects/PlayTest-Data-Builder/PlayTest-data-builder/obj/Debug/PlayTest-data-builder.csproj.CoreCompileInputs.cache
+/home/titanjc/Projects/CS_Projects/PlayTest-Data-Builder/PlayTest-data-builder/obj/Debug/PlayTest-data-builder.exe
+/home/titanjc/Projects/CS_Projects/PlayTest-Data-Builder/PlayTest-data-builder/obj/Debug/PlayTest-data-builder.pdb
