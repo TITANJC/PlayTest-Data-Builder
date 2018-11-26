@@ -43,6 +43,15 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="5E_DND\Ability.cs" />
+    <Compile Include="5E_DND\Armor.cs" />
+    <Compile Include="5E_DND\CharClass.cs" />
+    <Compile Include="5E_DND\Feat.cs" />
+    <Compile Include="5E_DND\Monster.cs" />
+    <Compile Include="5E_DND\Player.cs" />
+    <Compile Include="5E_DND\Race.cs" />
+    <Compile Include="5E_DND\Spell.cs" />
+    <Compile Include="5E_DND\Weapon.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="obj\Debug\TemporaryGeneratedFile_036C0B5B-1481-4323-8D20-8F5ADCB23D92.cs" />

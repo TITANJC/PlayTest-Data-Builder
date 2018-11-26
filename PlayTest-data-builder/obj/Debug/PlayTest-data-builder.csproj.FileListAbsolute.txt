@@ -6,3 +6,6 @@ D:/WORK/Portfolio/CS_Projects/PlayTest-data-builder/PlayTest-data-builder/bin/De
 /home/titanjc/Projects/CS_Projects/PlayTest-Data-Builder/PlayTest-data-builder/obj/Debug/PlayTest-data-builder.csproj.CoreCompileInputs.cache
 /home/titanjc/Projects/CS_Projects/PlayTest-Data-Builder/PlayTest-data-builder/obj/Debug/PlayTest-data-builder.exe
 /home/titanjc/Projects/CS_Projects/PlayTest-Data-Builder/PlayTest-data-builder/obj/Debug/PlayTest-data-builder.pdb
+D:\WORK\Portfolio\CS_Projects\PlayTest-data-builder\PlayTest-data-builder\bin\Debug\PlayTest-data-builder.exe.config
+D:\WORK\Portfolio\CS_Projects\PlayTest-data-builder\PlayTest-data-builder\obj\Debug\PlayTest-data-builder.exe
+D:\WORK\Portfolio\CS_Projects\PlayTest-data-builder\PlayTest-data-builder\obj\Debug\PlayTest-data-builder.pdb
